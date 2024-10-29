@@ -1,0 +1,34 @@
+/* Imagen y títulos principales */
+.imagen-fabri {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.principal {
+  font-size: 50px;
+  font-style: italic;
+  text-shadow: #28011e 5px 5px 5px;
+}
+
+.principal_2, .principal_3 {
+  font-style: italic;
+  text-shadow: #8f9373 5px 5px 5px;
+}
+
+.principal_2 {
+  font-size: 45px;
+}
+
+.principal_3 {
+  font-size: 35px;
+}
+
+.volver_inicio {
+  color: white;
+  font-size: 25px;
+  font-style: italic;
+  font-weight: bold;
+  text-shadow: #8f9373 7px 7px 7px;
+}
